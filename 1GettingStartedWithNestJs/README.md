@@ -28,3 +28,20 @@ nest --version
 ### What is Nest CLI
 - It is companion tool for NestJS that helps it generate run, compile and bundle our applications
 - `nest --help` to see all commands of `Nest CLI`
+
+## Generating our first NestJS Application
+- Nest CLI will do alot of heavy working for us, for example file structuring, installation, configuration and so on...
+- to create our first application
+```
+nest new
+```
+- then Nest CLI will ask us to give a name of the project
+- In this pathway we will be creating a REST API related to coffee, so let's give it name, `iluvcoffee`
+- Then select preffered package manager
+- Now it will take some time as Nest is generating required files for us to run the project
+- Once the installation is complete then change the directory to `cd iluvcoffee`
+- to run the application created just run the following command
+```
+npm run start
+```
+- This command will start our app, firing an `HTTP server` listening on `port 3000`
