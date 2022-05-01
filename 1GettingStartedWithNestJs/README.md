@@ -1,4 +1,4 @@
-#Getting started with NestJS
+# Getting started with NestJS
 
 ## Node.js ecosystem
 - node by design has minimilistic setup and developers are incharge of setting up
