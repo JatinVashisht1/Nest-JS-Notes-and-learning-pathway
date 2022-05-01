@@ -14,3 +14,17 @@
 - It also provides a full fledged toolkit for the application development
 - We can built Rest API's, MVC applications, microservices, GraphQL applications, web sockets, and even CLI's and cron jobs.
 - It also provides a **dependency Injection** system which lets developer abstracting dependencies easily
+
+## Installing NestJS CLI
+- Get `current version` or `latest LTS version` of node in your system
+- Install NestJS CLI from below command
+```
+npm i -g @nestjs/cli
+```
+- check if Nest is installed correctly
+```
+nest --version
+```
+### What is Nest CLI
+- It is companion tool for NestJS that helps it generate run, compile and bundle our applications
+- `nest --help` to see all commands of `Nest CLI`
