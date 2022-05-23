@@ -6,3 +6,4 @@
 ## Index
 
 - [Getting started with NestJS](/1GettingStartedWithNestJs/)
+- [Creating REST API with NestJS](/2CreatingRESTApplicationWithNestJS/)
